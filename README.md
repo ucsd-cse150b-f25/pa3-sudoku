@@ -1,2 +1,2 @@
-# HW2 Sudoku — starter
+# HW3 Sudoku — starter
 Run: `python main.py`
